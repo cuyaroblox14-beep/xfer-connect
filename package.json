@@ -1,0 +1,13 @@
+{
+  "name": "xfer-connect",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "app"
+  ],
+  "scripts": {
+    "backend": "npm --prefix backend run dev",
+    "app": "npm --prefix app start",
+    "install:all": "npm install --prefix backend && npm install --prefix app"
+  }
+}

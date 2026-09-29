@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Xfer Connect",
+    "slug": "xfer-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
